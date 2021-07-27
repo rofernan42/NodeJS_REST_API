@@ -1,0 +1,9 @@
+une API REST ne renvoie pas de views.
+
+Travailler avec une API REST:
+utiliser Postman
+
+Codepen: pour ecrire html css et js en live
+
+Authentification: besoin d'un token chaque requete qu'un user enverra
+npm install --save jsonwebtoken
