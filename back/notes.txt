@@ -7,3 +7,8 @@ Codepen: pour ecrire html css et js en live
 
 Authentification: besoin d'un token chaque requete qu'un user enverra
 npm install --save jsonwebtoken
+
+travailler avec une websocket:
+npm install --save socket.io
+socket on client side:
+npm install --save socket.io-client
